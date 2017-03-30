@@ -7,6 +7,6 @@ pageEncoding="UTF-8"%>
 	</head>
 	
 	<body>
-		Hello World! This is Jsp!!
+		Hello World! This is Jsp in WEB_INF !!!!
 	</body>
 </html>
